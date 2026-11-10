@@ -7,12 +7,7 @@
 
 ## Demo video (required)
 
-Paste a link to a short video of you running this assignment (tool + code + run).
-Work without a working video link is incomplete.
-
-The video is half the grade. Show `x` and `y` before and after the swap, explain why the `&` lets `swap_values` change `main`'s variables, then show the pointer read.
-
-**Your demo:** _add your link here_
+https://youtu.be/_iUXlwWMk6c
 
 
 ## Scenario
